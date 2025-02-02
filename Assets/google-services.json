@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "603399702911",
+    "firebase_url": "https://pare2-7a0f7-default-rtdb.firebaseio.com",
+    "project_id": "pare2-7a0f7",
+    "storage_bucket": "pare2-7a0f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603399702911:android:8387e40e73c2e83832724a",
+        "android_client_info": {
+          "package_name": "com.ece464.pare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603399702911-s3km3or78j6f6p4anqrbhovjfaheo3ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGrYVqaKTnCh3iTfJBxPPxWsbsPJSJZvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603399702911-s3km3or78j6f6p4anqrbhovjfaheo3ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

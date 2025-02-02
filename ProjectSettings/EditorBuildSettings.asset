@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EnterEventScene.unity
+    guid: acba956e716c07a46b15a24969f26e5e
+  - enabled: 1
+    path: Assets/Scenes/EventScene.unity
+    guid: 21d56664aef8d744792b50eb408d907c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 00aa0f87dc4fa73469acad0ccf47d746,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 17f9c24c20386c343bb455df677c338a,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 555c7c03f64d18442b543b3c339ab9ab,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a788ede1e4e97864a814b9463be2a6ee,
+      type: 2}
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: 88ecbd45d20d2c742aaa2ca0f1d7e6c8,
+      type: 2}
+    com.unity.xr.management.arkit_loader: {fileID: 11400000, guid: 2c81fdd455c3770468d089f84512ca47,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de56cf72d149b2241baaea60eb8e258a,
+      type: 2}
