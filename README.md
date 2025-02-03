@@ -5,4 +5,5 @@ Initial Demo Reel: https://www.youtube.com/watch?v=aEnK87qk_nA
 Test case scenario for a virtual college club fair: https://www.youtube.com/watch?v=ybV6hrg6dlM
 
 Demo of two users in different physical rooms but the same virtual space:
+
 ![Animation Preview](colocationdemo.gif)
